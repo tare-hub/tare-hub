@@ -28,12 +28,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=tare-hub&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=tare-hub&theme=radical)
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [tare-hub](https://github.com/tare-hub)
