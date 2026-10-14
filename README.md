@@ -27,7 +27,7 @@
 
 ## 🌌 About Me
 
-Hey! I'm **Tare**, a passionate full-stack web developer who loves transforming creative ideas into useful digital experiences.
+Hey! I'm **Tariku**, a passionate full-stack web developer who loves transforming creative ideas into useful digital experiences.
 
 I enjoy exploring modern technologies, building interactive websites, solving problems, and continuously improving my development skills.
 
